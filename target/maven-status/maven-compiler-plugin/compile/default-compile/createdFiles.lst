@@ -1,0 +1,8 @@
+PageObjects\Profile.class
+PageObjects\HomePage.class
+PageObjects\RegistrationPage.class
+BuggyCars\LandingPage.class
+BuggyCars\UpdateProfile.class
+BuggyCars\Model.class
+BuggyCars\Base.class
+PageObjects\PopularModel.class
